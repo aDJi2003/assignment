@@ -1,0 +1,16 @@
+TASK 1
+
+Sub-task A:
+a. Expnad the design of Good Reading Book (GRB) initial database that student have developed
+b. Students are free to think any tables that they think necessary
+c. Student may borrow some ideas from the Sakila database
+d. Security is not a concern. We can assume that the DB would be accesed by trusted admins on a secure system
+e. Minimum 15 tables excluding views. Create views as well
+f. Mind you that GRB plans to initiate an online store. Your design should also incorporate user account
+g. Note: the store functionality is only for browsing books online and wish listing them; no checkout, payments, shipping, etc. are required
+h. Define TCL as well
+
+Sub-task B:
+a. Implement the new GRB database desgin onto PostgreSQL
+b. Populating some dummy data. at least 20 records for each tables
+c. Create the ERD of the new database using pgAdmin to show the logical design of the database and give some explain to the relation
